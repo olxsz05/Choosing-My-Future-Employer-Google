@@ -1,5 +1,3 @@
-# Choosing-My-Future-Employer-Google
-Project 1
 
 # Choosing My Future Employer: Google
 A Student Career & Company Research Presentation
